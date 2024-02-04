@@ -1,2 +1,7 @@
 # freeCodeCamp_practice
-learn  DSA in .js by building webpage on specific tasks
+learn web development:
+<ul>
+  <li>Responsive Web Design</li>
+  <li></li>
+</ul>
+
